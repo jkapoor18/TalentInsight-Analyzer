@@ -28,7 +28,7 @@ Follow these steps to get started with the Resume Matcher:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Abdul-Jaweed/Resume-Matcher.git
+   git clone https://github.com/jkapoor18/TalentInsight-Analyzer.git
    cd resume-matcher
 
 2. Creating a Virtual Enviroment:
